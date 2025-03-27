@@ -1,0 +1,6 @@
+pyside6
+matplotlib
+mplcursors
+pandas
+sqlalchemy
+pyodbc

@@ -1,0 +1,5 @@
+.venv/
+src/database/__pycache__
+src/gui/__pycache__
+src/gui/pages/__pycache__
+src/utils/__pycache__
